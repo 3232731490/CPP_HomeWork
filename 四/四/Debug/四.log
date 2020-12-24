@@ -1,0 +1,4 @@
+﻿  类和对象(2).cpp
+C:\Users\32327\Desktop\面向对象作业\四\四\类和对象(2).cpp(81,8): warning C4101: “score”: 未引用的局部变量
+C:\Users\32327\Desktop\面向对象作业\四\四\类和对象(2).cpp(82,8): warning C4101: “grade”: 未引用的局部变量
+  四.vcxproj -> C:\Users\32327\Desktop\面向对象作业\四\Debug\四.exe

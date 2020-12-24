@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\32327\Desktop\面向对象作业\综合\综合\源.cpp(53,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\32327\Desktop\面向对象作业\综合\综合\源.cpp(54,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\32327\Desktop\面向对象作业\综合\综合\源.cpp(194,13): warning C4101: “c1”: 未引用的局部变量
+C:\Users\32327\Desktop\面向对象作业\综合\综合\源.cpp(193,6): warning C4101: “choice”: 未引用的局部变量
+C:\Users\32327\Desktop\面向对象作业\综合\综合\源.cpp(194,17): warning C4101: “c2”: 未引用的局部变量
+  综合.vcxproj -> C:\Users\32327\Desktop\面向对象作业\综合\Debug\综合.exe

@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\32327\Desktop\面向对象作业\多态性与虚函数\多态性与虚函数\源.cpp(17,17): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  多态性与虚函数.vcxproj -> C:\Users\32327\Desktop\面向对象作业\多态性与虚函数\Debug\多态性与虚函数.exe
